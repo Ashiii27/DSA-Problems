@@ -9,12 +9,14 @@ void printArray(int arr[], int n) {
     cout << endl;
 }
 
-void rotateArray(int arr[],int n){
-    int temp = arr[0];
+void rotateArray(int arr[],int n,int k){
+    do{int temp = arr[0];
     for (int i = 1; i < n;i++){
         arr[i - 1] = arr[i];
     }
     arr[n - 1] = temp;
+    k--;
+    } while (k > 0);
     printArray(arr, n);
 }
 
@@ -28,6 +30,9 @@ int main() {
     {
         cin >> arr[i];
     }
-    rotateArray(arr, n);
+    int k;
+    cout << "how many time you want to rotate the array : ";
+    cin >> k;
+    rotateArray(arr, n,k);
     return 0;
 }
