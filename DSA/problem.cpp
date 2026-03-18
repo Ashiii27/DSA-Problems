@@ -1,9 +1,10 @@
-Problem: Given an array of n-1 distinct integers in range [1, n], find the missing number.
-Example: arr = [1, 2, 4, 5], n=5 → missing = 3
+// Problem: Given an array of n-1 distinct integers in range [1, n], find the missing number.
+// Example: arr = [1, 2, 4, 5], n=5 → missing = 3
 
-Approach 1: Sorting
-Sort the array, then check where the sequence breaks.
-cpp#include <iostream>
+// Approach 1: Sorting
+// Sort the array, then check where the sequence breaks.
+// cpp
+#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -23,15 +24,16 @@ int main() {
     int n = 5;
     cout << "Missing: " << missingNumberSort(arr, n) << endl; // 3
 }
-How it works: After sorting, element at index i should be i+1. First mismatch gives the answer.
+// How it works: After sorting, element at index i should be i+1. First mismatch gives the answer.
 
-Time: O(n log n)
-Space: O(1)
+// Time: O(n log n)
+// Space: O(1)
 
 
-Approach 2: Sum Formula (Gauss)
-Sum of first n natural numbers = n*(n+1)/2. Subtract actual array sum from it.
-cpp#include <iostream>
+// Approach 2: Sum Formula (Gauss)
+// Sum of first n natural numbers = n*(n+1)/2. Subtract actual array sum from it.
+// cpp
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -47,24 +49,25 @@ int main() {
     int n = 5;
     cout << "Missing: " << missingNumberSum(arr, n) << endl; // 3
 }
-```
+// ```
 
-**How it works:**
-```
-expectedSum = 5*6/2 = 15
-actualSum   = 1+2+4+5 = 12
-missing     = 15 - 12 = 3
+// **How it works:**
+// ```
+// expectedSum = 5*6/2 = 15
+// actualSum   = 1+2+4+5 = 12
+// missing     = 15 - 12 = 3
 
-⚠️ Overflow risk: For very large n, n*(n+1) can overflow int. Always use long long.
-
-
-Time: O(n)
-Space: O(1)
+// ⚠️ Overflow risk: For very large n, n*(n+1) can overflow int. Always use long long.
 
 
-Approach 3: XOR
-XOR of a number with itself = 0. XOR everything from 1..n with everything in the array — paired numbers cancel out, leaving the missing one.
-cpp#include <iostream>
+// Time: O(n)
+// Space: O(1)
+
+
+// Approach 3: XOR
+// XOR of a number with itself = 0. XOR everything from 1..n with everything in the array — paired numbers cancel out, leaving the missing one.
+// cpp
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -83,23 +86,24 @@ int main() {
     int n = 5;
     cout << "Missing: " << missingNumberXOR(arr, n) << endl; // 3
 }
-```
+// ```
 
-**How it works (tracing):**
-```
-xorFull = 1^2^3^4^5
-xorArr  = 1^2^4^5
+// **How it works (tracing):**
+// ```
+// xorFull = 1^2^3^4^5
+// xorArr  = 1^2^4^5
 
-xorFull ^ xorArr = (1^1)^(2^2)^3^(4^4)^(5^5) = 0^0^3^0^0 = 3
-No overflow possible. This is the most elegant approach.
+// xorFull ^ xorArr = (1^1)^(2^2)^3^(4^4)^(5^5) = 0^0^3^0^0 = 3
+// No overflow possible. This is the most elegant approach.
 
-Time: O(n)
-Space: O(1)
+// Time: O(n)
+// Space: O(1)
 
 
-Approach 4: Visited / Marking (In-place)
-Use the array itself as a hash map. Mark index arr[i]-1 as negative to "visit" it. Unvisited index = missing number.
-cpp#include <iostream>
+// Approach 4: Visited / Marking (In-place)
+// Use the array itself as a hash map. Mark index arr[i]-1 as negative to "visit" it. Unvisited index = missing number.
+// cpp
+#include <iostream>
 #include <vector>
 #include <cmath>
 using namespace std;
@@ -124,22 +128,23 @@ int main() {
     int n = 5;
     cout << "Missing: " << missingNumberMark(arr, n) << endl; // 3
 }
-How it works:
+// How it works:
 
-For each value v, go to index v-1 and flip that element negative — marking it "seen"
-Whichever index still has a positive value was never visited → index + 1 is missing
-
-
-⚠️ Modifies the array (pass by value or restore after). Requires all values to be positive initially.
+// For each value v, go to index v-1 and flip that element negative — marking it "seen"
+// Whichever index still has a positive value was never visited → index + 1 is missing
 
 
-Time: O(n)
-Space: O(1) extra (modifies in-place)
+// ⚠️ Modifies the array (pass by value or restore after). Requires all values to be positive initially.
 
 
-Approach 5: HashMap / Frequency Array
-Store presence in a boolean array, then find the gap.
-cpp#include <iostream>
+// Time: O(n)
+// Space: O(1) extra (modifies in-place)
+
+
+// Approach 5: HashMap / Frequency Array
+// Store presence in a boolean array, then find the gap.
+// cpp
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -160,13 +165,14 @@ int main() {
     cout << "Missing: " << missingNumberHash(arr, n) << endl; // 3
 }
 
-Time: O(n)
-Space: O(n) — the tradeoff here
+// Time: O(n)
+// Space: O(n) — the tradeoff here
 
 
-Approach 6: Binary Search (if array is sorted)
-If the array is already sorted, binary search on the index-value relationship.
-cpp#include <iostream>
+// Approach 6: Binary Search (if array is sorted)
+// If the array is already sorted, binary search on the index-value relationship.
+// cpp
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -189,20 +195,20 @@ int main() {
     vector<int> arr = {1, 2, 4, 5}; // must be sorted
     cout << "Missing: " << missingNumberBinarySearch(arr) << endl; // 3
 }
-How it works: In a complete array, arr[i] == i+1 always. Once a number is missing, every element after shifts right by 1, so arr[i] > i+1. Binary search finds the exact boundary.
+// How it works: In a complete array, arr[i] == i+1 always. Once a number is missing, every element after shifts right by 1, so arr[i] > i+1. Binary search finds the exact boundary.
 
-Time: O(log n)
-Space: O(1)
-Constraint: Array must already be sorted
+// Time: O(log n)
+// Space: O(1)
+// Constraint: Array must already be sorted
 
 
-Comparison Table
-ApproachTimeSpaceNotesSortingO(n log n)O(1)Simple but slowSum FormulaO(n)O(1)Overflow risk for large nXORO(n)O(1)✅ Best general purposeIn-place MarkingO(n)O(1)Mutates arrayHashMapO(n)O(n)Easiest to understandBinary SearchO(log n)O(1)✅ Best, but needs sorted input
+// Comparison Table
+// ApproachTimeSpaceNotesSortingO(n log n)O(1)Simple but slowSum FormulaO(n)O(1)Overflow risk for large nXORO(n)O(1)✅ Best general purposeIn-place MarkingO(n)O(1)Mutates arrayHashMapO(n)O(n)Easiest to understandBinary SearchO(log n)O(1)✅ Best, but needs sorted input
 
-Which to Use?
+// Which to Use?
 
-Interview default → XOR (no overflow, O(n), elegant)
-Sorted array given → Binary Search (O(log n) is hard to beat)
-Quick and readable → Sum Formula (just use long long)
-Never default to Sorting unless the problem forces it
- Sonnet 4.6Claude is AI and can make mistakes. Please double-check responses.
+// Interview default → XOR (no overflow, O(n), elegant)
+// Sorted array given → Binary Search (O(log n) is hard to beat)
+// Quick and readable → Sum Formula (just use long long)
+// Never default to Sorting unless the problem forces it
+ 
