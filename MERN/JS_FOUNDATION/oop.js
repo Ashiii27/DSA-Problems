@@ -57,3 +57,21 @@ let myCar = new Car("toyota", "camry", 2020);
 let vehOne= new Vehicle("Honda", "Civic", 2020);
 //console.log(vehOne.start());
 
+//Encapsulation
+
+class BankAccount {
+    #balance = 0;
+
+    deposit(amount) {
+        this.#balance += amount;
+        return this.#balance;
+    }
+
+    getBalance() {
+        return `$ ${this.#balance}`;
+    
+    }
+}
+
+let account = new BankAccount() 
+console.log(account.getBalance());
