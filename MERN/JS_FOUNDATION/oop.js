@@ -74,4 +74,30 @@ class BankAccount {
 }
 
 let account = new BankAccount() 
-console.log(account.getBalance());
+//console.log(account.getBalance());
+
+// Abstraction
+
+class CoffeMachine{
+    start() {
+        //call DB
+        //filter value
+        return `Starting the coffee machine...`;
+    }
+
+    brewCoffee() {
+        //complex calculation 
+        return `Brewing coffee...`;
+    }
+
+    pressStartButton() {
+       let messageOne = this.start();
+       let messageTwo = this.brewCoffee();
+       return `${messageOne} \n${messageTwo}`;
+    }
+}
+
+let myMachine = new CoffeMachine();
+//console.log(myMachine.start());
+//console.log(myMachine.brewCoffee());
+console.log(myMachine.pressStartButton());
