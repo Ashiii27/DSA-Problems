@@ -31,12 +31,15 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 <!---LeetCode Topics End-->
