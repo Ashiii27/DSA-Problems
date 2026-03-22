@@ -30,11 +30,13 @@ This repository is organized into three main areas:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
