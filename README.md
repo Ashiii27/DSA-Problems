@@ -31,6 +31,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
@@ -44,4 +45,12 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
