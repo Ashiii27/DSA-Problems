@@ -31,6 +31,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -58,5 +59,10 @@ This repository is organized into three main areas:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
