@@ -38,6 +38,7 @@ This repository is organized into three main areas:
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ This repository is organized into three main areas:
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,9 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
