@@ -104,6 +104,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
