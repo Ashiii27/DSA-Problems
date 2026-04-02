@@ -42,6 +42,7 @@ This repository is organized into three main areas:
 | [2751-robot-collisions](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Two Pointers
@@ -80,6 +81,7 @@ This repository is organized into three main areas:
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
@@ -92,6 +94,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
