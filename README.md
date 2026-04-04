@@ -56,6 +56,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0054-spiral-matrix/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2751-robot-collisions](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2751-robot-collisions/) | Hard |
@@ -111,6 +112,7 @@ This repository is organized into three main areas:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
