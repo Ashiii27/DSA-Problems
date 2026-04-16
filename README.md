@@ -47,6 +47,7 @@ This repository is organized into three main areas:
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -80,6 +81,7 @@ This repository is organized into three main areas:
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -154,6 +156,7 @@ This repository is organized into three main areas:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
 | Problem Name | Difficulty |
