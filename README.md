@@ -38,6 +38,7 @@ This repository is organized into three main areas:
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -60,6 +61,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
@@ -160,6 +162,7 @@ This repository is organized into three main areas:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
