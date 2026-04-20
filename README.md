@@ -39,6 +39,7 @@ This repository is organized into three main areas:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -147,6 +148,7 @@ This repository is organized into three main areas:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
