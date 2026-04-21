@@ -37,6 +37,7 @@ This repository is organized into three main areas:
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -94,6 +95,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -176,4 +178,8 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
