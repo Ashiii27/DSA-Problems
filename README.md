@@ -35,6 +35,7 @@ This repository is organized into three main areas:
 | [0054-spiral-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -130,6 +131,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
+| [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -138,6 +140,7 @@ This repository is organized into three main areas:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2463-minimum-total-distance-traveled/) | Hard |
