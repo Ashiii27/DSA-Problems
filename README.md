@@ -168,6 +168,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -233,4 +234,8 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
