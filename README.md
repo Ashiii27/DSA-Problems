@@ -36,6 +36,7 @@ This repository is organized into three main areas:
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -104,6 +105,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -171,6 +173,7 @@ This repository is organized into three main areas:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
