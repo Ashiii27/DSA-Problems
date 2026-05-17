@@ -39,6 +39,7 @@ This repository is organized into three main areas:
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -244,6 +245,7 @@ This repository is organized into three main areas:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -262,6 +264,7 @@ This repository is organized into three main areas:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
