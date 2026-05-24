@@ -164,6 +164,7 @@ This repository is organized into three main areas:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0788-rotated-digits/) | Medium |
@@ -294,6 +295,7 @@ This repository is organized into three main areas:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -303,4 +305,8 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
