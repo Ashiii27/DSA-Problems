@@ -1,24 +1,23 @@
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        dummyHead = ListNode(0)
-        tail = dummyHead
+        dummy = ListNode()
+        cur = dummy
         carry = 0
 
-        while l1 is not None or l2 is not None or carry != 0:
-            digit1 = l1.val if l1 is not None else 0
-            digit2 = l2.val if l2 is not None else 0
+        while l1 or l2 or carry:
+            total = carry
 
-            sum = digit1 + digit2 + carry
-            digit = sum % 10
-            carry = sum // 10
+            if l1:
+                total += l1.val
+                l1 = l1.next
 
-            newNode = ListNode(digit)
-            tail.next = newNode
-            tail = tail.next
+            if l2:
+                total += l2.val
+                l2 = l2.next
 
-            l1 = l1.next if l1 is not None else None
-            l2 = l2.next if l2 is not None else None
+            carry, digit = divmod(total, 10)
 
-        result = dummyHead.next
-        dummyHead.next = None
-        return result
+            cur.next = ListNode(digit)
+            cur = cur.next
+
+        return dummy.next
