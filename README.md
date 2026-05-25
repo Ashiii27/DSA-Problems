@@ -32,6 +32,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
@@ -93,6 +94,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -238,6 +240,7 @@ This repository is organized into three main areas:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0015-3sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
