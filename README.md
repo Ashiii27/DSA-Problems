@@ -30,6 +30,7 @@ This repository is organized into three main areas:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
@@ -212,6 +213,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -275,6 +277,7 @@ This repository is organized into three main areas:
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Counting
