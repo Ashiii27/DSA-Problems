@@ -30,6 +30,7 @@ This repository is organized into three main areas:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -91,6 +92,7 @@ This repository is organized into three main areas:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -229,6 +231,7 @@ This repository is organized into three main areas:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
