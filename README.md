@@ -222,6 +222,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -259,6 +260,7 @@ This repository is organized into three main areas:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
