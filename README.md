@@ -57,6 +57,7 @@ This repository is organized into three main areas:
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -106,6 +107,7 @@ This repository is organized into three main areas:
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2540-minimum-common-value/) | Easy |
@@ -253,6 +255,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -263,6 +266,7 @@ This repository is organized into three main areas:
 | [0015-3sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0015-3sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2126-destroying-asteroids/) | Medium |
