@@ -57,6 +57,7 @@ This repository is organized into three main areas:
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -166,6 +167,7 @@ This repository is organized into three main areas:
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -183,6 +185,7 @@ This repository is organized into three main areas:
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0788-rotated-digits/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -213,6 +216,7 @@ This repository is organized into three main areas:
 | [0560-subarray-sum-equals-k](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -259,6 +263,7 @@ This repository is organized into three main areas:
 | [0015-3sum](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0015-3sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -360,4 +365,8 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3161-block-placement-queries/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
