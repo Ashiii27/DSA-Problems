@@ -90,6 +90,7 @@ This repository is organized into three main areas:
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3660-jump-game-ix/) | Medium |
@@ -111,6 +112,7 @@ This repository is organized into three main areas:
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ This repository is organized into three main areas:
 | [2126-destroying-asteroids](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@ This repository is organized into three main areas:
 | [2784-check-if-array-is-good](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -293,6 +297,7 @@ This repository is organized into three main areas:
 | [3161-block-placement-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
 | Problem Name | Difficulty |
