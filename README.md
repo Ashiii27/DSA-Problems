@@ -47,6 +47,7 @@ This repository is organized into three main areas:
 | [1340-jump-game-v](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1390-four-divisors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1390-four-divisors/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -189,6 +190,7 @@ This repository is organized into three main areas:
 | [0048-rotate-image](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0788-rotated-digits/) | Medium |
+| [1390-four-divisors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1390-four-divisors/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
