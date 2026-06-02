@@ -60,6 +60,7 @@ This repository is organized into three main areas:
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1895-largest-magic-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -173,6 +174,7 @@ This repository is organized into three main areas:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1895-largest-magic-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -223,6 +225,7 @@ This repository is organized into three main areas:
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1895-largest-magic-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1895-largest-magic-square/) | Medium |
 | [2615-sum-of-distances](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
