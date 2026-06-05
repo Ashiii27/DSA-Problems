@@ -202,6 +202,7 @@ This repository is organized into three main areas:
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
@@ -222,6 +223,7 @@ This repository is organized into three main areas:
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
