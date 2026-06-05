@@ -1,70 +1,80 @@
 class Solution:
+    def waveTotal(self, num):
+        numstr = str(num)
+        @cache
+        def helper(i, minAllowed, maxAllowed, prev, bounded, firstNum):
+            # returns (count, total_waviness)
+            if minAllowed > maxAllowed:
+                return (0, 0)
+            if i == len(numstr) - 1:
+                if bounded:
+                    maxAllowed = min(maxAllowed, int(numstr[i]))
+                if minAllowed > maxAllowed:
+                    return (0, 0)
+                return (maxAllowed - minAllowed + 1, 0)
 
-    def solve(self, n: int) -> int:
+            res_cnt = 0
+            res_wave = 0
+            if bounded:
+                if int(numstr[i]) > maxAllowed:
+                    bounded = False
+                maxAllowed = min(maxAllowed, int(numstr[i]))
+            if minAllowed > maxAllowed:
+                return (0, 0)
 
-        if n <= 0:
-            return 0
+            if firstNum:
+                if i == len(numstr) - 2:
+                    return (0, 0)
+                if minAllowed == 0:
+                    c, w = helper(i + 1, 0, 9, 0, False, True)
+                    res_cnt += c
+                    res_wave += w
+                for j in range(max(minAllowed, 1), maxAllowed + 1):
+                    bound = bounded and j == maxAllowed
+                    c, w = helper(i + 1, 0, 9, j, bound, False)
+                    res_cnt += c
+                    res_wave += w
+                return (res_cnt, res_wave)
 
-        s = str(n)
-        memo = {}
+            # j < prev (descending)
+            for j in range(minAllowed, min(maxAllowed + 1, prev)):
+                bound = bounded and j == maxAllowed
+                # next > j = valley
+                up_c, up_w = helper(i + 1, j + 1, 9, j, bound, False)
+                # next <= j = continuing descent or equal
+                dn_c, dn_w = helper(i + 1, 0, j, j, bound, False)
+                res_cnt += up_c + dn_c
+                res_wave += (up_w + up_c) + dn_w  # +1 per valley path
 
-        def dfs(pos, tight, started, prev2, prev1):
+            # j == prev
+            if prev >= minAllowed and prev <= maxAllowed:
+                bound = bounded and prev == maxAllowed
+                eq_c, eq_w = helper(i + 1, 0, 9, prev, bound, False)
+                res_cnt += eq_c
+                res_wave += eq_w
 
-            if pos == len(s):
-                return (0, 1)  # (waviness, count)
+            # j > prev (ascending)
+            for j in range(max(prev + 1, minAllowed), maxAllowed + 1):
+                bound = bounded and j == maxAllowed
+                # next < j = peak
+                dn_c, dn_w = helper(i + 1, 0, j - 1, j, bound, False)
+                # next >= j = continuing ascent or equal
+                up_c, up_w = helper(i + 1, j, 9, j, bound, False)
+                res_cnt += dn_c + up_c
+                res_wave += (dn_w + dn_c) + up_w  # +1 per peak path
 
-            key = (pos, tight, started, prev2, prev1)
+            return (res_cnt, res_wave)
 
-            if key in memo:
-                return memo[key]
+        cnt, wave = helper(0, 0, 9, -1, True, True)
+        return wave
+                
+            
+            
 
-            total_waviness = 0
-            total_cnt = 0
-
-            limit = int(s[pos]) if tight else 9
-
-            for d in range(limit + 1):
-
-                next_tight = tight and (d == limit)
-
-                if not started and d == 0:
-
-                    child_waviness, child_cnt = dfs(pos + 1,next_tight,False,10,10)
-
-                    total_waviness += child_waviness
-                    total_cnt += child_cnt
-
-                else:
-
-                    add = 0
-
-                    if not started:
-
-                        n_prev2 = 10
-                        n_prev1 = d
-
-                    else:
-
-                        if prev2 != 10:
-
-                            peak = (prev1 > prev2 and prev1 > d)
-                            valley = (prev1 < prev2 and prev1 < d)
-
-                            if peak or valley:
-                                add = 1
-
-                        n_prev2 = prev1
-                        n_prev1 = d
-
-                    child_waviness, child_cnt = dfs(pos + 1,next_tight,True,n_prev2,n_prev1)
-
-                    total_waviness += (child_waviness +add * child_cnt)
-                    total_cnt += child_cnt
-
-            memo[key] = (total_waviness, total_cnt)
-            return memo[key]
-
-        return dfs(0, True, False, 10, 10)[0]
-
+        
     def totalWaviness(self, num1: int, num2: int) -> int:
-        return self.solve(num2) - self.solve(num1 - 1)
+        l = self.waveTotal(num1 - 1)
+        r = self.waveTotal(num2)
+        print(l, r)
+        return r - l
+        
