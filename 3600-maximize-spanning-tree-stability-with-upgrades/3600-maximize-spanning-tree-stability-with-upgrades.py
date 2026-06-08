@@ -1,80 +1,44 @@
-class DSU:
-    def __init__(self, n):
-        self.parent = list(range(n))
-        self.rank = [0] * n
-        self.components = n
-
-    def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])
-        return self.parent[x]
-
-    def unite(self, a, b):
-        pa = self.find(a)
-        pb = self.find(b)
-
-        if pa == pb:
-            return False
-
-        if self.rank[pa] < self.rank[pb]:
-            pa, pb = pb, pa
-
-        self.parent[pb] = pa
-
-        if self.rank[pa] == self.rank[pb]:
-            self.rank[pa] += 1
-
-        self.components -= 1
-        return True
-
-
 class Solution:
-    def canAchieve(self, n, edges, k, x):
-        dsu = DSU(n)
+    def maxStability(self, n: int, edges: List[List[int]], k: int) -> int:
+        parent = list(range(n))
 
-        # Mandatory edges
-        for u, v, s, must in edges:
-            if must == 1:
-                if s < x:
-                    return False
-                if not dsu.unite(u, v):
-                    return False
+        def find(u: int) -> int:
+            if parent[u] == u: return u
+            parent[u] = find(parent[u])
+            return parent[u]
+        
+        def union(u: int, v: int) -> bool:
+            ru, rv = find(u), find(v)
+            if ru == rv: return False
 
-        # Free optional edges
-        for u, v, s, must in edges:
-            if must == 0 and s >= x:
-                dsu.unite(u, v)
+            parent[ru] = rv
+            return True
 
-        # Upgrade edges
-        used_upgrades = 0
+        if len(edges) < n - 1: return -1
+        
+        must_edges = [(u, v, s) for u, v, s, m in edges if m == 1]
 
-        for u, v, s, must in edges:
-            if must == 0 and s < x and 2 * s >= x:
-                if dsu.unite(u, v):
-                    used_upgrades += 1
-                    if used_upgrades > k:
-                        return False
+        remaining, min_must_cost = n - 1, inf
+        for u, v, s in must_edges:
+            if not union(u, v): return -1
+            remaining -= 1
+            min_must_cost = min(min_must_cost, s)
 
-        return dsu.components == 1
+        if remaining == 0: return min_must_cost
 
-    def maxStability(self, n, edges, k):
-        # Check mandatory edges cycle
-        dsu = DSU(n)
-        for u, v, s, must in edges:
-            if must == 1:
-                if not dsu.unite(u, v):
-                    return -1
+        upgradeable_edges = [(u, v, s) for u, v, s, m in edges if m == 0]
+        upgradeable_edges.sort(key= lambda edge: edge[2], reverse=True)
 
-        low, high = 1, 200000
-        ans = -1
+        upgrage_added = [None] * remaining
+        for u, v, s in upgradeable_edges:
+            if not union(u, v): continue
+            remaining -= 1
 
-        while low <= high:
-            mid = (low + high) // 2
+            upgrage_added[remaining] = s
+            if remaining == 0: break
 
-            if self.canAchieve(n, edges, k, mid):
-                ans = mid
-                low = mid + 1
-            else:
-                high = mid - 1
+        if remaining > 0: return -1
 
-        return ans
+        if k >= len(upgrage_added): return min(min_must_cost, 2 * upgrage_added[0])
+
+        return min(min_must_cost, 2 * upgrage_added[0], upgrage_added[k])
