@@ -156,6 +156,7 @@ This repository is organized into three main areas:
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -247,6 +248,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3713-longest-balanced-substring-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ This repository is organized into three main areas:
 | [3093-longest-common-suffix-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +351,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3713-longest-balanced-substring-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
