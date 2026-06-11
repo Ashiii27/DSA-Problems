@@ -50,6 +50,7 @@ This repository is organized into three main areas:
 | [1390-four-divisors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1390-four-divisors/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -181,6 +182,7 @@ This repository is organized into three main areas:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
