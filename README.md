@@ -95,6 +95,7 @@ This repository is organized into three main areas:
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -307,6 +308,7 @@ This repository is organized into three main areas:
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Stack
@@ -327,6 +329,7 @@ This repository is organized into three main areas:
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
@@ -399,6 +402,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
