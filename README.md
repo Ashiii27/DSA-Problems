@@ -92,6 +92,7 @@ This repository is organized into three main areas:
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -138,6 +139,7 @@ This repository is organized into three main areas:
 | [2553-separate-the-digits-in-an-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@ This repository is organized into three main areas:
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -391,6 +394,7 @@ This repository is organized into three main areas:
 | [0002-add-two-numbers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +431,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -446,4 +451,12 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
