@@ -403,6 +403,7 @@ This repository is organized into three main areas:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0868-binary-gap](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0868-binary-gap/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
