@@ -206,6 +206,7 @@ This repository is organized into three main areas:
 | [0396-rotate-function](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0788-rotated-digits/) | Medium |
 | [1390-four-divisors](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1390-four-divisors/) | Medium |
+| [1622-fancy-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -340,6 +341,7 @@ This repository is organized into three main areas:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -392,6 +394,7 @@ This repository is organized into three main areas:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1622-fancy-sequence/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@ This repository is organized into three main areas:
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
