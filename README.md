@@ -233,6 +233,7 @@ This repository is organized into three main areas:
 | [1340-jump-game-v](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -275,6 +276,7 @@ This repository is organized into three main areas:
 | [0796-rotate-string](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -420,6 +422,7 @@ This repository is organized into three main areas:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1871-jump-game-vii/) | Medium |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
