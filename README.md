@@ -121,6 +121,7 @@ This repository is organized into three main areas:
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2540-minimum-common-value/) | Easy |
@@ -329,6 +330,7 @@ This repository is organized into three main areas:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0020-valid-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -399,6 +401,7 @@ This repository is organized into three main areas:
 | [0002-add-two-numbers](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
