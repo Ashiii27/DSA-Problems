@@ -930,3 +930,15 @@ Always have *something* working, then improve:
 ---
 
 *Tip: Don't aim to "finish" — aim to be able to **re-derive** each pattern. 8–12 weeks of consistent practice (2–4 problems/day) through this list covers the vast majority of DSA interview rounds.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+<!---LeetCode Topics End-->
