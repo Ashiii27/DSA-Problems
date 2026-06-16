@@ -941,4 +941,8 @@ Always have *something* working, then improve:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0799-champagne-tower](https://github.com/Ashiii27/DS-and-MERN-journey/tree/main/0799-champagne-tower/) | Medium |
 <!---LeetCode Topics End-->
