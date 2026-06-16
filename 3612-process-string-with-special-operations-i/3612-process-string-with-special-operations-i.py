@@ -1,20 +1,18 @@
-#translated using AI
 class Solution:
     def processStr(self, s: str) -> str:
-        res = []
-        n = len(s)
+        ans = ""
 
-        for i in range(n):
-            ch = s[i]
+        for x in s:
+            if x == '*':
+                ans = ans[:-1]
 
-            if ch == '*':
-                if len(res) != 0:
-                    res.pop()
-            elif ch == '#':
-                res.extend(res)
-            elif ch == '%':
-                res.reverse()
-            elif 'a' <= ch <= 'z':
-                res.append(ch)
+            elif x == '#':
+                ans += ans
 
-        return ''.join(res)
+            elif x == '%':
+                ans = ans[::-1]
+
+            else:
+                ans +=x
+
+        return ans
