@@ -33,3 +33,24 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 	<li><code>0 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
+
+Solution :
+```python
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        n = len(s)
+        maxLength = 0
+        charMap = {}
+        left = 0
+        
+        for right in range(n):
+            if s[right] not in charMap or charMap[s[right]] < left:
+                charMap[s[right]] = right
+                maxLength = max(maxLength, right - left + 1)
+            else:
+                left = charMap[s[right]] + 1
+                charMap[s[right]] = right
+        
+        return maxLength
+```
