@@ -30,3 +30,23 @@ Problem 2 :
 
 ![alt text](image-1.png)
 
+Solution :
+
+```cpp
+
+int rows = A.size();
+int cols = A[0].size();
+
+vector <vector <int>> ans;
+
+for(int i = 0; i<rows; i++) {
+    vector <vector<int>> temp;
+    for(int j = 0; j<cols ; j++){
+        temp.push_back(A[i][j]+B[i][j]);
+    }
+    ans.push_back(temp);
+}
+
+return ans;
+```
+
