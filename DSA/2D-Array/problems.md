@@ -50,3 +50,25 @@ for(int i = 0; i<rows; i++) {
 return ans;
 ```
 
+Problem 3 :
+
+Transpose of a Matrix using Vectors:
+![alt text](image-2.png)
+
+solution:
+
+```cpp
+
+vector<vector<int>> v;
+int rows = A.size();
+int cols = A[0].size();
+
+for(int i = 0; i<cols ; i++){
+    vector<int> temp;
+    for(int j = 0 ; j < rows ; j++) {
+        temp.push_back(A[j][i]);
+    }
+    v.push_back(temp);
+}
+
+return v;
