@@ -1,0 +1,1 @@
+This directory contains some projects that I created while learning about languages.

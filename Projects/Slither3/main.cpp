@@ -1,6 +1,6 @@
 #include <iostream>
 #include<curses.h>
-
+#include "ui.h"
 using namespace std;
 
 int main() {
@@ -25,11 +25,8 @@ int main() {
     // }
     // cout<<endl;
 
-    initscr();
-    move(10,10);
-    addch('#');
-    getch();
-    // cout<<"# ";
-    endwin();
+    init_ui();
+    paint_border(COLS, LINES);
+    tear_down_ui();
     return 0;
 }
