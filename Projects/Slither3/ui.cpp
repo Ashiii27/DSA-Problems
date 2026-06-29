@@ -3,8 +3,13 @@
 char border_char = (char)219; // Character used for the border
 void init_ui() {
     // Initialize the user interface components here
-    // This may include setting up windows, buttons, and other UI elements
     initscr(); // Initialize the ncurses screen
+    cbreak();
+    noecho();
+    keypad(stdscr, TRUE);
+    nodelay(stdscr, TRUE); // This will make getch non-blocking
+    curs_set(0);
+    clear();
 }
 
 void tear_down_ui() {
@@ -25,5 +30,5 @@ void paint_border(int width, int height) {
         mvaddch(i, 0, border_char); // Left border
         mvaddch(i, width - 1, border_char); // Right border
     }
-    getch(); // Wait for user input before proceeding
+    //getch(); // Wait for user input before proceeding
 }
