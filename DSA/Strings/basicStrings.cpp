@@ -1,20 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <string>
+#include <map>
+#include <set>
+#include <queue>
+#include <stack>
 
-/* void toggleCase(char ch[]){
-    int i = 0;
-    while(ch[i]!='\0'){
-        if(isalpha(ch[i])){
-            if(ch[i]>=65 && ch[i]<90){
-            ch[i]=ch[i]+32;
-        }else {
-            ch[i]=ch[i]-32;
-        }
-        i++;
-        }
-        
-    }
-} */
+using namespace std;
 
 void toggleCase(char ch[]){
     int i = 0;
@@ -34,6 +27,27 @@ void toggleCase(char ch[]){
         i++;
     }
 }
+
+    /* void toggleCase(char ch[]){
+    int i = 0;
+    while(ch[i]!='\0'){
+        if(isalpha(ch[i])){
+            if(ch[i]>=65 && ch[i]<90){
+            ch[i]=ch[i]+32;
+        }else {
+            ch[i]=ch[i]-32;
+        }
+        i++;
+        }
+        
+    }
+} */
+
+int main() {
+
+
+
+
 
 int main() {
 
@@ -67,3 +81,6 @@ int main() {
 
 
 
+
+
+  
