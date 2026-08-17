@@ -17,11 +17,11 @@ void toggleCase(char ch[]){
                 ch[i] = tolower(ch[i]);
             }
             else{
-                ch[i] = tolower(ch[i]);
+                ch[i] = toupper(ch[i]);
             }
             
         }else{
-            string m = "Invaild Input";
+            string m = "Invalid Input";
             cout << m << endl;
         }
         i++;
@@ -79,6 +79,12 @@ int main() {
 
 //strcpy(source,destination) -> This is an inbuilt function in strings which copy content from source string to dsnt string;
 
+//strlen -> returns the length of the string  
+
+//strcmp -> compares two strings and returns 0 if they are equal, a negative value if the first string is less than the second, and a positive value if the first string is greater than the second. strcmp(string1, string2)
+
+//"Hello" "There" -> "HelloThere"  -> This is called string concatenation
+// strcat() -> This is an inbuilt function in strings which concatenates two strings. It takes two arguments, the destination string and the source string, and appends the source string to the end of the destination string. The destination string must have enough space to hold the concatenated result.
 
 
 
