@@ -1,16 +1,15 @@
 class Solution:
     def checkValidString(self, s):
-        mask = 1
-
+        bal = 0
         for ch in s:
-            if ch == '(':
-                mask = mask << 1
-            elif ch == ')':
-                mask = mask >> 1
-            else:
-                mask = (mask << 1) | mask | (mask >> 1)
-
-            if mask == 0:
+            bal += 1 if ch in '(*' else -1
+            if bal < 0:
                 return False
 
-        return (mask & 1) != 0
+        bal = 0
+        for ch in reversed(s):
+            bal += 1 if ch in ')*' else -1
+            if bal < 0:
+                return False
+
+        return True
